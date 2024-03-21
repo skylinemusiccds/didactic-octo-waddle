@@ -3,16 +3,16 @@
 	<img src="https://raw.githubusercontent.com/skylinemusiccds/audioflare/dev/fastlane/metadata/android/en-US/images/featureGraphic.png">
 <h1>audioflare</h1>A FOSS YouTube Music client for Android with many features from<br>Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike<br>
 <br>
-<a href="https://github.com/universe-dev/audioflare/releases"><img src="https://img.shields.io/github/v/release/universe-dev/audioflare"></a>
-<a href="https://github.com/universe-dev/audioflare/releases"><img src="https://img.shields.io/github/downloads/universe-dev/audioflare/total"></a>
+<a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://img.shields.io/github/v/release/universe-dev/audioflare"></a>
+<a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://img.shields.io/github/downloads/universe-dev/audioflare/total"></a>
 <br>
 <br>
 <a href="https://apt.izzysoft.de/packages/com.universe.audioflare/"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="80"></a>
 <a href="https://f-droid.org/en/packages/com.universe.audioflare/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80"></a>
 <a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 <h3>Nightly Build<h3>
-<a href="https://nightly.link/maxrave-dev/simpmusic/workflows/android/dev/app.zip"><img src="https://github.com/universe-dev/audioflare/actions/workflows/android.yml/badge.svg"></a><br/>
-<a href="https://nightly.link/maxrave-dev/simpmusic/workflows/android/dev/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
+<a href="https://nightly.link/skylinemusiccds/audioflare/workflows/android/dev/app.zip"><img src="https://github.com/skylinemusiccds/audioflare/actions/workflows/android.yml/badge.svg"></a><br/>
+<a href="https://nightly.link/skylinemusiccds/audioflare/workflows/android/dev/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 </div>
 	
 ## Features ✨️
