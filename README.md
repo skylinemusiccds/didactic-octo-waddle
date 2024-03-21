@@ -113,9 +113,3 @@ Simply, because I love this name. It's a combination of Simple and Music. But au
 <a href="https://liberapay.com/universe/"><img alt="liberapay" height="50"
 src="https://raw.githubusercontent.com/liberapay/liberapay.com/master/www/assets/liberapay/logo-v2_black-on-yellow.svg"></a>
 <div/>
-
-### MOMO or Vietnamese banking
-<p float="left">
-	<img src="https://github.com/universe-dev/audioflare/blob/dev/asset/52770992.jpg?raw=true" width="300">
-</p>
-# didactic-octo-waddle
