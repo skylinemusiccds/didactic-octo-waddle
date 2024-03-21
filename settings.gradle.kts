@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AudioFlare"
 include ("app")
-include(":kotlinYtmusicScraper")
+include(":kotlinYtmusicScraper222")
