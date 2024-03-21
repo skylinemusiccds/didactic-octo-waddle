@@ -1,7 +1,7 @@
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/skylinemusiccds/audioflare/dev/fastlane/metadata/android/en-US/images/featureGraphic.png">
-<h1>audioflare</h1>A FOSS YouTube Music client for Android with many features from<br>Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike<br>
+<h1>AudioFlare</h1>A FOSS YouTube Music client for Android with many features from<br>Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike<br>
 <br>
 <a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://img.shields.io/github/v/release/universe-dev/audioflare"></a>
 <a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://img.shields.io/github/downloads/universe-dev/audioflare/total"></a>
