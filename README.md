@@ -42,21 +42,21 @@
 ## Screenshots
 
 <p align="center">  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg?raw=true" width="200" />  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg?raw=true" width="200" />  
-   <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg?raw=true" width="200" />  
-   <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg?raw=true" width="200" />  
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg?raw=true" width="200" />  
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg?raw=true" width="200" />  
+   <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg?raw=true" width="200" />  
+   <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg?raw=true" width="200" />  
 </p>  
 <p align="center">  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg?raw=true" width="200" />  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg?raw=true" width="200" />  
-   <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg?raw=true" width="200" />  
-   <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg?raw=true" width="200" />  
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg?raw=true" width="200" />  
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg?raw=true" width="200" />  
+   <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg?raw=true" width="200" />  
+   <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg?raw=true" width="200" />  
 </p>  
 </p>  
 <p align="center">  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg?raw=true" width="200" />  
-  <img src="https://github.com/universe-dev/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/11.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/10.jpg?raw=true" width="200" />  
+  <img src="https://github.com/skylinemusiccds/audioflare/blob/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/11.jpg?raw=true" width="200" /> 
 </p>  
 
 #### More [screenshot](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
@@ -76,7 +76,7 @@ audioflare doesn't have any tracker or third-party server for collecting user da
 logged-in users enable "Send back to Google" feature, audioflare only uses YouTube Music Tracking API
 to send listening history and listening record of video to Google for better recommendations and
 supporting artist or YouTube Creator (For API reference,
-see [this](https://github.com/universe-dev/audioflare/blob/13f7ab6e5fa521b62a9fd31a1cefdc2787a1a8af/kotlinYtmusicScraper/src/main/java/com/universe/kotlinytmusicscraper/Ytmusic.kt#L639C4-L666C1)).
+see [this](https://github.com/skylinemusiccds/audioflare/blob/13f7ab6e5fa521b62a9fd31a1cefdc2787a1a8af/kotlinYtmusicScraper/src/main/java/com/universe/kotlinytmusicscraper/Ytmusic.kt#L639C4-L666C1)).
 
 ## Translation
 
