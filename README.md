@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/skylinemusiccds/audioflare/dev/fastlane/metadata/android/en-US/images/172876e3ef491d0bd9e9de1b0ded5233.png">
+	<img src="https://raw.githubusercontent.com/skylinemusiccds/audioflare/dev/fastlane/metadata/android/en-US/images/17.png">
 <h1>AudioFlare</h1>A FOSS YouTube Music client for Android with many features from<br>Spotify, Musixmatch, SponsorBlock, ReturnYouTubeDislike<br>
 <br>
 <a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://img.shields.io/github/v/release/universe-dev/audioflare"></a>
