@@ -1,4 +1,4 @@
-name: Build debug APK
+name: Build debug APK1
 on:
   workflow_dispatch:
   push:
