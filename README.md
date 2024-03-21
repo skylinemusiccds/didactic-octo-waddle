@@ -11,8 +11,8 @@
 <a href="https://f-droid.org/en/packages/com.universe.audioflare/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80"></a>
 <a href="https://github.com/skylinemusiccds/audioflare/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 <h3>Nightly Build<h3>
-<a href="https://nightly.link/skylinemusiccds/audioflare/workflows/android/dev/app.zip"><img src="https://github.com/universe-dev/audioflare/actions/workflows/android.yml/badge.svg"></a><br/>
-<a href="https://nightly.link/skylinemusiccds/audioflare/workflows/android/dev/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
+<a href="https://nightly.link/maxrave-dev/simpmusic/workflows/android/dev/app.zip"><img src="https://github.com/universe-dev/audioflare/actions/workflows/android.yml/badge.svg"></a><br/>
+<a href="https://nightly.link/maxrave-dev/simpmusic/workflows/android/dev/app.zip"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="80"></a>
 </div>
 	
 ## Features ✨️
