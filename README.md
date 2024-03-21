@@ -97,9 +97,7 @@ Simply, because I love this name. It's a combination of Simple and Music. But au
 
 ## Developer/Team
 
-### [universe-dev](https://github.com/universe-dev/audioflare): Founder/Developer/Designer 
-
-### [owen connor](https://github.com/owencz1998): Discord Server Admin. 
+### [UniVerse Ai Systems](https://github.com/universe-dev/audioflare): Founder/Developer/Designer  
 
 ## Support & Donations
 <div align="left">
