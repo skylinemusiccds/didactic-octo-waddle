@@ -82,7 +82,7 @@ class Ytmusic {
             field = value
         }
 
-    var musixmatchUserToken: String? = null
+    var musixmatchUserToken: String? = "%7B%22tokens%22%3A%7B%22musixmatch-artists-v2.0%22%3A%22240321883340310880f1f2a8daed127bf3a1d0c930b19a296e4079%22%2C%22mxm-backoffice-v1.0%22%3A%222403212e55f8d7e9b8249f3d76f9232d8f378592afcdc8863619f2%22%2C%22musixmatch-podcasts-v2.0%22%3A%22240321aa11e3ae275f5956184bc7fc77dc70c0730682326f172b8d%22%2C%22musixmatch-podcasts-v2.0-pp%22%3A%222403215d762f73d14189b1e298c50d19d5ac378baa4222ecb74afe%22%2C%22mxm-pro-web-v1.0%22%3A%22240321b85b79c0905152a3742bb982f811e1ef958ae784ee2ae500%22%2C%22mxm-com-v1.0%22%3A%22240321d1fd3fe4c61b6edd6413d0689c5ea4f8137480cd9d52d037%22%2C%22musixmatch-publishers-v2.0%22%3A%22240321a27d3ce44f6014dafd53adee7fe2e56e3810adb097435046%22%2C%22web-desktop-app-v1.0%22%3A%2224032123b5248930a50920c42e5f7d05f8c42f7c7db137277d7418%22%2C%22community-app-v1.0%22%3A%22240321663d8469b0cbd5af41c83b9dead608bbe2b99db0142db21d%22%2C%22mxm-proxy-manager-v1.0%22%3A%222403217448e4d039e5cb32c75fa57a1354e03e1bb86417a31a0296%22%2C%22mxm-studio-v1.0%22%3A%22240321f5650edac76d2fff9e11cdc9d5ff941260b7a759ca5b95c1%22%2C%22mxm-account-v1.0%22%3A%2224032167b9d015fca84038a14f1cad38a29d55a4326a55f818ed47%22%7D%2C%22version%22%3A1%7D"
 
     var proxy: Proxy? = null
         set(value) {
@@ -789,8 +789,8 @@ class Ytmusic {
      * Please don't use my client id and client secret for your project. Create your own client id and client secret in Spotify Web API page.
      */
 
-    private val spotify_client_id = "721d6f670f074b1497e74fc59125a6f3"
-    private val spotify_client_secret = "efddc083fa974d39bc6369a892c07ced"
+    private val spotify_client_id = "3f971f30eea74721b0489d7515565f15"
+    private val spotify_client_secret = "4aa763a14a65402783efd3aae01ed3b7"
 
     suspend fun getSpotifyToken() = httpClient.post("https://accounts.spotify.com/api/token") {
         userAgent(YouTubeClient.WEB.userAgent)
@@ -810,7 +810,7 @@ class Ytmusic {
         spotifyClient.get("https://open.spotify.com/get_access_token?reason=transport&productType=web_player") {
             userAgent(YouTubeClient.WEB.userAgent)
             contentType(ContentType.Application.Json)
-            header("Cookie", "sp_dc=$spdc")
+            header("Cookie", "sp_dc=AQDwApGDZ5AYazQMw__2q6rTMpKheYLqPBObcoM4reb0gsT8hgfj68gt--ZsN11WCaCmd417co8C258aN5vSYJ3V2aAfA7ykRLWxTdmmSuX9tzBizRjUE_bL61Z47miGbbxtSMwjjNOvqllm2br1CT5aTrQ54gk")
         }
 
     suspend fun getSpotifyLyrics(token: String, trackId: String) =
