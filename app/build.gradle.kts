@@ -190,7 +190,7 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
     //runtime
     implementation("androidx.startup:startup-runtime:1.1.1")
-    implementation(project(mapOf("path" to ":kotlinYtmusicScraper")))
+    implementation(project(mapOf("path" to ":kotlinYtmusicScraper222")))
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
     debugImplementation("androidx.compose.ui:ui-tooling:1.6.3")
